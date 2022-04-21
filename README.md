@@ -8,7 +8,7 @@ I've been learning to code from past 2 year, i have come a long way in Python, M
 
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [My Portfolio](http://my.app.com)
-* ✉️  You can contact me at [shetty.supreeth95@gmail.com](mailto:shetty.supreeth95@gmail.com)
+* ✉️  You can contact me on <a href="https://www.linkedin.com/in/supreeth-s-shetty-302268170/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="21" height="15" /></a> or <a href="https://www.twitter.com/Supreeth95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="21" height="15" /></a>
 * 🚀  I'm currently working on [CNN-MLflow\_app](http://github.com/Supreeth-Shetty/CNN-MLflow_app)
 * 🧠  I'm learning Computer Vision and Natural Language Processing.
 * 🤝  I'm open to collaborate in Machine learning and Deep Learning projects
