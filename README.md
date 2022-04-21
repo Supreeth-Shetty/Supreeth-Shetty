@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/Supreeth-Shetty?logo=github&style=f
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Supreeth-Shetty" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="62" height="32" /></a> <a href="https://www.linkedin.com/in/supreeth-s-shetty-302268170/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Supreeth95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Supreeth-Shetty" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="62" height="32" /></a> <a href="https://www.linkedin.com/in/supreeth-s-shetty-302268170/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="62" height="32" /></a> <a href="https://www.twitter.com/Supreeth95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="62" height="32" /></a></p>
 
 ### Badges
 
