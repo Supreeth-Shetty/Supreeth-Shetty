@@ -1,4 +1,4 @@
-Hi 👋 My name is Supreeth
+Hi 👋
 =========================
 
 I am a Data Scientist
