@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/Supreeth-Shetty?logo=github&style=f
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="62" height="36" alt="scikit-learn" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="62" height="36" alt="TensorFlow" /></a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="62" height="36" alt="Keras" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" width="82" height="36" alt="PyTorch" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" width="100" height="36" alt="PyTorch" /></a>
 </p>
 
 
