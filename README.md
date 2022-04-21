@@ -34,8 +34,11 @@ src="https://img.shields.io/github/followers/Supreeth-Shetty?logo=github&style=f
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="42" height="36" alt="TensorFlow" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
+<p align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="55" height="36" alt="Heroku" /></a>
-
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" width="55" height="36" alt="AWS" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Google-cloud-platform-v2.svg" width="55" height="36" alt="GCP" /></a>
+</p>
 
 ### Socials
 
