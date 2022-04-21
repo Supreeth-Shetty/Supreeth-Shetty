@@ -11,7 +11,7 @@ I've been learning to code from past 2 year, i have come a long way in Python, M
 * ✉️  You can contact me at [shetty.supreeth95@gmail.com](mailto:shetty.supreeth95@gmail.com)
 * 🚀  I'm currently working on [CNN-MLflow\_app](http://github.com/Supreeth-Shetty/CNN-MLflow_app)
 * 🧠  I'm learning Computer Vision and Natural Language Processing.
-* 🤝  I'm open to collaborating on Machine learning and Deep Learning projects
+* 🤝  I'm open to collaborate in Machine learning and Deep Learning projects
 
 <a href="https://www.github.com/Supreeth-Shetty" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Supreeth-Shetty?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
