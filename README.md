@@ -1,7 +1,7 @@
 Hi 👋 My name is Supreeth
 =========================
 
-Data Scientist
+I am a Data Scientist
 --------------
 
 I've been learning to code from past 1 year, i have come a long way in Python, ML, DL and Data analytics domain
