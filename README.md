@@ -4,7 +4,7 @@ Hi 👋 My name is Supreeth
 I am a Data Scientist
 --------------
 
-I've been learning to code from past 1 year, i have come a long way in Python, ML, DL and Data analytics domain
+I've been learning to code from past 2 year, i have come a long way in Python, ML, DL and Data analytics domain
 
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [My Portfolio](http://my.app.com)
