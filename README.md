@@ -1,7 +1,7 @@
 Hi 👋
 =========================
 
-I'm a Data Scientist
+<!-- I'm a Data Scientist -->
 --------------
 
 I've been learning to code from past 2 year, i have come a long way in Python, ML, DL and Data analytics domain
