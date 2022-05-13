@@ -39,6 +39,7 @@ I've been learning to code from past 2 year, i have come a long way in Python, M
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Google-cloud-platform-v2.svg" width="55" height="36" alt="GCP" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left">
@@ -48,9 +49,17 @@ I've been learning to code from past 2 year, i have come a long way in Python, M
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Supreeth-Shetty"><img src="https://github-readme-stats.vercel.app/api?username=Supreeth-Shetty&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Supreeth-Shetty's GitHub stats" /></a>
-
-<a href="http://www.github.com/Supreeth-Shetty"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreeth-Shetty&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supreeth-Shetty&show_icons=true&hide_border=true&theme=tokyonight" /> 
+    </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreeth-Shetty&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> 
+    </td>
+    <td>
+      <img height="180em" href="http://www.github.com/Supreeth-Shetty"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreeth-Shetty&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"&layout=compact&langs_count=8&theme=tokyonight" />
+    </td>
+  </tr>
+ <table>
 
 <a href="http://www.github.com/Supreeth-Shetty"><img src="https://activity-graph.herokuapp.com/graph?username=Supreeth-Shetty&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
